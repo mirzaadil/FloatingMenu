@@ -19,3 +19,5 @@ in XML
         gFloatingMenu = (GFloatingMenu) findViewById(R.id.flmenu);
         gFloatingMenu.setParentBlurView(mRelativeLayout);
     }
+![floatingmenu](https://cloud.githubusercontent.com/assets/3800098/19223017/eb98908c-8e7e-11e6-9942-70d7d8ee65a8.png)
+
